@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1059b42c.css",
+    "main.js": "/static/js/main.29f3b804.js",
+    "static/js/787.f4fb4458.chunk.js": "/static/js/787.f4fb4458.chunk.js",
+    "static/media/home-page-2.jpeg": "/static/media/home-page-2.84e6d6403e626379c20a.jpeg",
+    "static/media/about-us.jpeg": "/static/media/about-us.a2657cb3a90ca816fc13.jpeg",
+    "static/media/adukation Blue.png": "/static/media/adukation Blue.581d28cda3d1fe9ce8a2.png",
+    "static/media/home-bg.png": "/static/media/home-bg.a464e232805d41d9fe01.png",
+    "static/media/home-bg-2.png": "/static/media/home-bg-2.a4d107759a2685e849bb.png",
+    "static/media/home-banner-3.jpeg": "/static/media/home-banner-3.d47f4cf66cf300d58251.jpeg",
+    "static/media/home-banner-2.jpeg": "/static/media/home-banner-2.dc0af562ac88a5adb7c4.jpeg",
+    "static/media/home-banner-1.jpeg": "/static/media/home-banner-1.5a9a371bd0148132e020.jpeg",
+    "static/media/seba-2.png": "/static/media/seba-2.83720fac3225908c549f.png",
+    "static/media/adukation-logo-1.png": "/static/media/adukation-logo-1.df938efa2ffec57822a1.png",
+    "static/media/ahsec.jpeg": "/static/media/ahsec.1edb0300ad3b3c6e97b1.jpeg",
+    "index.html": "/index.html",
+    "main.1059b42c.css.map": "/static/css/main.1059b42c.css.map",
+    "main.29f3b804.js.map": "/static/js/main.29f3b804.js.map",
+    "787.f4fb4458.chunk.js.map": "/static/js/787.f4fb4458.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1059b42c.css",
+    "static/js/main.29f3b804.js"
+  ]
+}
