@@ -1,6 +1,1 @@
-User-agent: *
-allow: /private/
-allow: /temp/
-allow: /admin/
 
-Sitemap: https://www.atconsoles.com/sitemap.xml
